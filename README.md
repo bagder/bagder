@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-I'm an eager open source developer and you'll see me most active in the curl project and other
+I'm an avid open source developer and you'll see me most active in the curl project and other
 network related projects.
 
 File issues and pull-requests in any and all of the projects I participate in. Contact me via
