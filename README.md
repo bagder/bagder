@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel 👋
 
-I'm an avid open source developer and you'll see me most active in the curl project and other
-network related projects.
+I am and have been an avid open source developer since the mid 1990s. You find most of my
+contributions in the [curl project](https://github.com/curl/curl) and other network related projects.
 
 File issues and pull-requests in any and all of the projects I participate in. Contact me via
 email at `daniel@haxx.se` on twitter at [@bagder](https://twitter.com/bagder/) or on IRC in the
