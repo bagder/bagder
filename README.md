@@ -5,6 +5,6 @@ contributions in the [curl project](https://github.com/curl/curl) and other netw
 
 File issues and pull-requests in any and all of the projects I participate in. Contact me via
 email at `daniel@haxx.se` on twitter at [@bagder](https://twitter.com/bagder/) or on IRC in the
-`#curl` channel on freenode.
+`#curl` channel on libera.chat.
 
 Everything about me and my projects are also available on https://daniel.haxx.se
