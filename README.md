@@ -13,4 +13,8 @@ email at `daniel@haxx.se` on twitter at [@bagder](https://twitter.com/bagder/) o
 
 Everything about me and my projects are also available on [my website](https://daniel.haxx.se).
 
-[🌟 GitHub star](https://stars.github.com/profiles/bagder/)
+[🌟 GitHub star](https://stars.github.com/profiles/bagder/) |
+[Polhem Prize](https://daniel.haxx.se/blog/2017/10/20/my-night-at-the-museum/) |
+[Nordic Free Sofware Award](https://daniel.haxx.se/blog/2009/11/14/i-won-it-you-guys-are-the-best/) |
+[Google Patch Award](https://daniel.haxx.se/blog/2020/09/23/a-google-grant-for-libcurl-work/) |
+[Sweden's 2nd best Developer](https://daniel.haxx.se/blog/2016/12/01/2nd-best-in-sweden/)
