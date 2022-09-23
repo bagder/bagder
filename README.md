@@ -1,5 +1,7 @@
 ### Hi, I'm Daniel!
 
+[<img src="https://curl.se/logo/curl-logo.svg" width=300 align=right>](https://curl.se/)
+
 I am and have been an avid open source supporter and developer since the mid 1990s. My code is almost guaranteed
 to run in your devices, in one way or another.
 
