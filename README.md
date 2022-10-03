@@ -3,7 +3,7 @@
 [<img src="https://curl.se/logo/curl-logo.svg" width=300 align=right>](https://curl.se/)
 
 I am and have been an avid open source supporter and developer since the mid 1990s. My code is almost guaranteed
-to run in your devices, in one way or another.
+to run in your devices, in one way or another. I work exclusively on Open Source since many years.
 
 I founded and lead the development of the [curl project](https://github.com/curl/curl) and I do spurious
 contributions in other network related projects like [libssh2](https://github.com/libssh2/libssh2) and
