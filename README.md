@@ -6,8 +6,8 @@ I am and have been an avid open source supporter and developer since the mid 199
 to run in your devices, in one way or another. I work exclusively on Open Source since many years.
 
 I founded and lead the development of the [curl project](https://github.com/curl/curl) and I do spurious
-contributions in other network related projects like [libssh2](https://github.com/libssh2/libssh2) and
-[c-ares](https://github.com/c-ares/c-ares).
+contributions in other network related projects like [libssh2](https://github.com/libssh2/libssh2),
+[c-ares](https://github.com/c-ares/c-ares) and [trurl](https://github.com/curl/trurl).
 
 I have authored the following books: [Uncurled](https://un.curl.dev/), [everything curl](https://everything.curl.dev), [HTTP/3 explained](https://http3-explained.haxx.se) and [http2 explained](https://http2-explained.haxx.se).
 
