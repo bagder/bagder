@@ -24,3 +24,4 @@ Everything about me and my projects are also available on [my website](https://d
 [:trophy: Google Patch Award](https://daniel.haxx.se/blog/2020/09/23/a-google-grant-for-libcurl-work/) |
 [:trophy: Sweden's 2nd best Developer](https://daniel.haxx.se/blog/2016/12/01/2nd-best-in-sweden/)
 
+## 💚 Thank you awesome sponsors! 💚
