@@ -12,7 +12,7 @@ contributions in other network related projects like [libssh2](https://github.co
 I have authored the following books: [Uncurled](https://un.curl.dev/), [everything curl](https://everything.curl.dev), [HTTP/3 explained](https://http3-explained.haxx.se) and [http2 explained](https://http2-explained.haxx.se).
 
 File issues and pull-requests in any and all of the projects I participate in. Contact me via
-email at `daniel@haxx.se` on [Twitter](https://twitter.com/bagder/),
+email at `daniel@haxx.se` on 
 <a rel="me" href="https://mastodon.social/@bagder">Mastodon</a> or IRC in the
 `#curl` channel on [libera.chat](https://libera.chat/).
 
