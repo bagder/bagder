@@ -20,6 +20,8 @@ Everything about me and my projects are also available on [my website](https://d
 
 [🌟 GitHub star](https://stars.github.com/profiles/bagder/) |
 [:trophy: Polhem Prize](https://daniel.haxx.se/blog/2017/10/20/my-night-at-the-museum/) |
+[:trophy: Microsoft MVP](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/) |
+[:trophy: 5 x Google Open Source Peer Bonus](https://daniel.haxx.se/blog/2024/05/24/google-peer-bonus-number-five/) |
 [:trophy: Nordic Free Sofware Award](https://daniel.haxx.se/blog/2009/11/14/i-won-it-you-guys-are-the-best/) |
 [:trophy: Google Patch Award](https://daniel.haxx.se/blog/2020/09/23/a-google-grant-for-libcurl-work/) |
 [:trophy: Sweden's 2nd best Developer](https://daniel.haxx.se/blog/2016/12/01/2nd-best-in-sweden/)
