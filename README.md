@@ -18,7 +18,9 @@ email at `daniel@haxx.se` on
 
 Everything about me and my projects are also available on [my website](https://daniel.haxx.se).
 
-[:trophy: European Open Source Achievement Award 2025](https://daniel.haxx.se/blog/2025/02/03/european-open-source-achievement-award/) |
+[:trophy: Swedish IVA Gold Medal](https://daniel.haxx.se/blog/2025/10/21/a-royal-gold-medal/)
+[:trophy: Developer of the year](https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/)
+[:trophy: European Open Source Achievement Award](https://daniel.haxx.se/blog/2025/02/03/european-open-source-achievement-award/) |
 [🌟 GitHub star](https://stars.github.com/profiles/bagder/) |
 [:trophy: Polhem Prize](https://daniel.haxx.se/blog/2017/10/20/my-night-at-the-museum/) |
 [:trophy: Microsoft MVP](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/) |
